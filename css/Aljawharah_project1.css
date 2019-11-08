@@ -1,0 +1,102 @@
+body {
+background-color: #FFF; <!--white-->
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+.logo {
+width: 200px;
+height: 150px;
+border-style: outset;
+margin-top: 10px;
+margin-bottom: 5px;
+border-radius: 50%;
+}
+
+
+.line {
+width: 100%;
+border-bottom: 5px solid #F00; <!--red-->
+margin-top: 5px;
+margin-bottom: 20px;
+}
+
+.center {
+padding: 15px;
+border-style: outset;
+margin-left: 20px;
+border-radius: 1em;
+margin-bottom: 10px;
+}
+
+h1 {
+color: #00F; <!--blue-->
+font-style: italic;
+text-align: right;
+margin-top: 20px;
+}
+
+h2 {
+color: #F00; <!--red-->
+text-decoration: underline;
+font-style: italic;
+text-align: right;
+}
+
+h4 {
+color: #00F; <!--blue-->
+font-style: oblique;
+
+
+}
+
+.key {
+padding: 35px 35px;
+text-decoration: underline;
+color: #F00; <!--red-->
+}
+
+.html {
+width: 180px;
+height:200px;
+border-style: outset;
+border-radius: 1em;
+padding: 10px;
+margin-top: 10px;
+margin-bottom: 30px;
+}
+
+.css {
+width: 160px;
+height:200px;
+border-style: outset;
+border-radius: 1em;
+padding: 10px;
+margin-top: 10px;
+margin-bottom: 30px;
+}
+
+.java {
+width: 150px;
+height:200px;
+border-style: outset;
+border-radius: 1em;
+padding: 10px;
+margin-top: 10px;
+margin-bottom: 30px;
+}
+
+a:link {
+  text-decoration: underline;
+}
+
+#footer {
+  padding: 40px;
+  margin: auto;
+  font-style: oblique;
+  margin-top: 30px;
+}
