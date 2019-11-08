@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [Project Preview](#Project Preview)
-* [Technologies Used In Application](#Technologies Used In Application)
+* [Project Preview](#Project-Preview)
+* [Technologies Used In Application](#Technologies-Used-In-Application)
 * [Summary](#Summary)
 
 
